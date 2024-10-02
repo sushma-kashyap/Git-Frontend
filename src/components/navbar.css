@@ -1,0 +1,28 @@
+nav{
+    display: flex;
+    border-bottom: 2px solid black;
+    padding-bottom: 10px;
+    justify-content: space-between;
+
+}
+nav img{
+    width: 10%;
+    border-radius: 10%;
+    
+}
+nav div{
+    display: flex;
+}
+nav h3{
+    color: black;
+}
+
+ nav p{
+    margin-left: 50px;
+    font-weight: bold;
+    color: black;
+}
+
+nav h3:hover, nav p:hover{
+    text-decoration: underline;
+}
