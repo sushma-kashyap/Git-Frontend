@@ -1,6 +1,8 @@
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+
+
 Link: https://main.d137axzlldrt0n.amplifyapp.com/auth
 
 Currently, two official plugins are available:
